@@ -47,7 +47,7 @@ Aspiring AI specialist with a solid foundation in machine learning, data analysi
 
 ### Generative AI  
 **AWS**  
-*08/2024 - Present*
+*08/2024 - 11/2024*
 - Assisted in data preprocessing, model training, and performance evaluation.
 - Contributed to deploying generative AI solutions in production environments.
 - Collaborated on the design and implementation of AI models, enhancing innovation and automation.
